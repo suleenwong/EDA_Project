@@ -8,7 +8,6 @@ Source: [kingcounty.gov](https://kingcounty.gov/services/home-property/historic-
 
 ## Introduction
 
----
 The goal of this project is to present to a fictitious stakeholder, our recommendations based on Exploratory Data Analysis (EDA) of the King County Housing Dataset.
 
 Our stakeholder for this project is Mr. Zachary Brooks, with the following requirements:
@@ -17,8 +16,6 @@ Seller. Invests in historical houses, best neighborhoods, high profits, best tim
 
 
 ## Setup
-
----
 
 This repository contains a requirements.txt file with a list of all the packages and dependencies you will need. 
 
@@ -37,10 +34,7 @@ brew update
 brew install node
 ```
 
-
-
 ## About this repo
----
 
 In this repository you will find:
 
