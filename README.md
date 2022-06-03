@@ -2,6 +2,7 @@
 
 
 ![](https://raw.githubusercontent.com/suleenwong/EDA_Project/main/images/Bellavue_unsplash.jpeg)
+
 <sup>Lake view with a sunset in Bellevue, King County. Source: [unsplash.com](https://unsplash.com/photos/CvQfGJmJ6zs)</sup>
 
 
