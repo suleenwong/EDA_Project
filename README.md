@@ -1,9 +1,8 @@
 # EDA Project: King County Housing Data
 
 
-![](https://kingcounty.gov/~/media/services/home-property/historic-preservation/images/KirklandHistoricHome.jpeg)
-
-Source: [kingcounty.gov](https://kingcounty.gov/services/home-property/historic-preservation/projects/kirkland-inventory.aspx)
+![](https://raw.githubusercontent.com/suleenwong/EDA_Project/main/images/Bellavue_unsplash.jpeg)
+<sup>Lake view with a sunset in Bellevue, King County. Source: [unsplash.com](https://unsplash.com/photos/CvQfGJmJ6zs)</sup>
 
 
 ## Introduction
