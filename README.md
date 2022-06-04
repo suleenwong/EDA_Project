@@ -39,10 +39,8 @@ brew install node
 In this repository you will find:
 
 
-- **King_County_House_prices_dataset.csv** : Raw data
-
-- **column_names.md** : Descriptions of the columns
-
 - **EDA_Project_Notebook.ipynb** : Jupyter notebook with Exploratory Data Analysis (EDA), python code, visualizations, documentation
 
 - **EDA_Project_Slides.pdf** : Presentation of the results of the EDA
+
+- **column_names.md** : Descriptions of the columns
